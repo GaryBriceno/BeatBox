@@ -23,7 +23,7 @@ public class BeatBoxFragment extends Fragment {
     public static BeatBoxFragment newInstance(){
         return new BeatBoxFragment();
     }
-    
+
 
     @Override
     public void onCreate(Bundle savedInstanceState){
